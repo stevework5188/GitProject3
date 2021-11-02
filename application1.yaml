@@ -1,0 +1,8 @@
+spring:
+  redis: 
+    host: ldad010a.rnd.pncint.net
+logging:
+  level:
+    com.pnc: stage
+    com.pnc.micron: qa
+#Todo
