@@ -1,0 +1,3 @@
+spring:
+  redis: 
+    host: ldad010a.rnd.pncint.net2
